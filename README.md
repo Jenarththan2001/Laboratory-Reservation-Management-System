@@ -30,6 +30,7 @@ To use this project, follow these steps:
 5. Run the project on your local server.
 
 Additionally, we have uploaded a demonstration and explanation video on YouTube. Feel free to watch it for a better understanding of the project.
+https://www.youtube.com/watch?v=mNLXK8cMbsg&t=1142s
 
 ## Feedback
 If you encounter any issues or have feedback, feel free to reach out. Your feedback is always welcomed.
