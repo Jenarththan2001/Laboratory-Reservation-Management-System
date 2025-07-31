@@ -1,5 +1,6 @@
 # Laboratory Reservation Management System for Electronics Lab
-
+## Demo Video
+[![Watch the demo](demo_thumbnail.jpg)]([https://www.youtube.com/watch?v=mNLXK8cMbsg)
 ## Overview
 This project is a Laboratory Reservation Management System developed as part of the EC5070 Database Systems module at the University of Jaffna. It provides a user-friendly interface for managing reservations in the Electronics lab.
 
